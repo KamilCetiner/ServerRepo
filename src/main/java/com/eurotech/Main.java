@@ -17,9 +17,6 @@ public class Main {
         tankstelle.addObserver(new BenzinDisplayFeld());
         tankstelle.addObserver(new DieselDisplayFeld());
 
-        tankstelle.updateDisplay();
-
-        tankstelle.updateDisplay();
 
 
 
