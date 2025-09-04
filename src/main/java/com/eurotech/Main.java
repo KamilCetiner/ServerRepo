@@ -16,9 +16,6 @@ public class Main {
 
         tankstelle.addObserver(new BenzinDisplayFeld());
         tankstelle.addObserver(new DieselDisplayFeld());
-
-
-
         /* int port = 8080;
 
         Thread serverThread = new Thread(new Server(port));
