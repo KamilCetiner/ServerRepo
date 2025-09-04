@@ -19,7 +19,7 @@ public class Main {
 
         tankstelle.updateDisplay();
 
-        //tankstelle.updateDisplay();
+        tankstelle.updateDisplay();
 
 
 
